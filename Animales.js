@@ -1,0 +1,1 @@
+let amarillo = [{"caballo", "perro"}]
