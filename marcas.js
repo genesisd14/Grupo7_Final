@@ -1,7 +1,7 @@
 let marcas = [
     {
-        marca:"Audi",
-        modelo:"A4",
-        anio:1994
+        marca:"Renault",
+        modelo:"Kwid",
+        anio:2020,
     }
 ]
